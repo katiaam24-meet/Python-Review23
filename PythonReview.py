@@ -15,8 +15,8 @@ def add_comment(youtube_video, username,comment_text):
 	comments ={"username" : comment_text}
 	return comments
 
-new_vid = create_youtube_video('ALIII','ALII WAS HERE')
-print(new_vid)
+new_vid = create_youtube_video('ALIII','ALII WAS HERE' )
+print(new_vid  )
 
 
 
